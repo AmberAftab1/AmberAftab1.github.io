@@ -21,6 +21,7 @@ I am currently working on a project with my advisor, Dr. Sang Won Lee, that focu
         <div class="span5">
             Amber Aftab<br/>
             Email: amber.aftab1@gmail.com<br/>
+            Location: Blacksburg, VA. 24060<br/>
         </div>
 
         <div class="span2">
