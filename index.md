@@ -36,7 +36,7 @@ I am currently working on a project with my advisor, Dr. Sang Won Lee, that focu
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://github.com/AmberAftab1">GitHub</a></li>
-          <li><a href="https://github.com/AmberAftab1">LinkedIn</a></li>
+          <li><a href=https://www.linkedin.com/in/amber-aftab-a968391a2/>LinkedIn</a></li>
       </ul>
   </div>
 </div>
