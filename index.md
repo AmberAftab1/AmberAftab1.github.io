@@ -7,14 +7,14 @@ keywords:
 
 I am a PhD candidate at Virginia Polytechnic Institute and State University. I did my Bachelors in Computer Science from the Lahore University of Management Sciences in Pakistan. My area of research is Human Computer Interaction. More specifically, I work towards creating interactive systems that facilitate empathy.
 
+
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
 ---
 
-
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
@@ -24,7 +24,7 @@ I am a PhD candidate at Virginia Polytechnic Institute and State University. I d
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
+            <img src="../assets/headshot.jpeg"
                   title="Amber Aftab" alt="Amber Aftab"/></a>
         </div>
     </div>
