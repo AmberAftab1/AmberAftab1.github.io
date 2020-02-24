@@ -34,8 +34,7 @@ I am a PhD candidate at Virginia Polytechnic Institute and State University. I d
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/AmberAftab1">GitHub</a></li>
       </ul>
   </div>
 </div>
