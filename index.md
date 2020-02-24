@@ -5,7 +5,7 @@ description: Amber Aftab is a PhD candidate at Virginia Polytechnic Institute an
 keywords: 
 ---
 
-I am a PhD candidate at Virginia Polytechnic Institute and State University. I did my Bachelors in Computer Science from the Lahore University of Management Sciences in Pakistan. My area of research is Human Computer Interaction. More specifically, I work towards creating interactive systems that facilitate empathy.
+I am a first year PhD student at Virginia Polytechnic Institute and State University. I did my Bachelors in Computer Science from the Lahore University of Management Sciences in Pakistan. My area of research is Human Computer Interaction. More specifically, I work towards creating interactive systems that facilitate empathy.
 I am currently working on a project with my advisor, Dr. Sang Won Lee, that focuses on creating a tool that allows users to create interactive tutorials for web tasks by demonstration. Our goal is to make basic webtasks accessible to those not well acquainted with navigating the web.
 
 
