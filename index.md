@@ -6,7 +6,10 @@ keywords:
 ---
 
 I am a first year PhD student at Virginia Polytechnic Institute and State University. I did my Bachelors in Computer Science from the Lahore University of Management Sciences in Pakistan. My area of research is Human Computer Interaction. More specifically, I work towards creating interactive systems that facilitate empathy.
-I am currently working on a project with my advisor, Dr. Sang Won Lee, that focuses on creating a tool that allows users to create interactive tutorials for web tasks by demonstration. Our goal is to make basic webtasks accessible to those not well acquainted with navigating the web.
+
+Advisor: Dr. Sang Won Lee (PhD Computer Science, University of Michigan)
+
+I am currently working on making basic web tasks more accessible to people with low digital literacy. My research focuses on creating interactive tutorials using visual cues that will help an individual navigate through web tasks with relative ease, without depending on someone else for assistance. This will result in people eventually being able to navigate through basic web tasks independently.
 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
