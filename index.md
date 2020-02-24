@@ -1,11 +1,11 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Amber Aftab
+description: Amber Aftab is a PhD candidate at Virginia Polytechnic Institute and State University. 
+keywords: 
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+I am a PhD candidate at Virginia Polytechnic Institute and State University. I did my Bachelors in Computer Science from the Lahore University of Management Sciences in Pakistan. My area of research is Human Computer Interaction. More specifically, I work towards creating interactive systems that facilitate empathy.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -18,14 +18,14 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Amber Aftab<br/>
+            Email: amber.aftab1@gmail.com<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Amber Aftab" alt="Amber Aftab"/></a>
         </div>
     </div>
 </div>
